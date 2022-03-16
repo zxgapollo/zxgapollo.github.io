@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+
+
+== Publications
+
+
+
+- [http://dx.doi.org/10.1109/TSTE.2022.3141549 Sparse Variational Gaussian Process based Day-ahead Probabilistic Wind Power Forecasting] | [https://github.com/honglinwen/Wind-power-forecasting-based-on-SVGP GitHub]\n
+*Honglin Wen*, Jinghuan Ma, Jie Gu, Lyuzerui Yuan, and Zhijian Jin \n
+/ IEEE Transactions on Sustainable Energy/ (IEEE TSTE 2022)
+
+- Skeleton Sequence and RGB Frame Based Multi-Modality Feature Fusion Network for Action Recognition \n
+Xiaoguang Zhu, Ye Zhu, Haoyu Wang, *Honglin Wen*, Yan Yan, and Peilin Liu \n
+/ ACM Transactions on Multimedia Computing Communications and Applications/ (ACM TOMM 2021) \n
+
+- [http://dx.doi.org/10.1109/TSG.2021.3066567 Probabilistic Load Forecasting via Neural Basis Expansion Model Based Prediction Intervals] \n
+*Honglin Wen*, Jie Gu, Jinghuan Ma, Lyuzerui Yuan, and Zhijian Jin \n
+/ IEEE Transactions on Smart Grid/ (IEEE TSG 2021)
+
+- [http://dx.doi.org/10.1002/2050-7038.12571 Featuring periodic correlations via dual granularity inputs structured RNNs ensemble load forecaster] \n
+Lyuzerui Yuan, Jinghuan Ma, Jie Gu, *Honglin Wen*, and Zhijian Jin\n
+/ International Transactions on Electrical Energy Systems/ (2020)
+
+- [http://dx.doi.org/10.1145/3396851.3402367 Unearthing Details of Time Series of Load: A Dual-scale Input Structured LSTM Approach]  \n
+Lyuzerui Yuan, Jinghuan Ma, Jie Gu, *Honglin Wen*, and Zhijian Jin \n
+/ The 12th ACM International Conference on Future Energy Systems
+/ (ACM e-Energy 2020)
+
+-  [http://dx.doi.org/10.1002/2050-7038.12251 Forecasting customers' response to incentives during peak periods: A transfer learning approach] \n
+Long Cai, *Honglin Wen*, Jie Gu, Jinghuan Ma, and Zhijian Jin \n
+/ International Transactions on Electrical Energy Systems/ (2020)
+
+- [https://ieeexplore.ieee.org/document/8972125 Probabilistic Wind Power Forecasting via Bayesian Deep Learning Based Prediction Intervals] \n
+*Honglin Wen*, Jie Gu, Jinghuan Ma, and Zhijian Jin \n
+/ IEEE 17th International Conference on Industrial Informatics/ (IEEE INDIN 2019) \n
+
+== Preprints
+
+- [http://dx.doi.org/10.36227/techrxiv.16866280 Continuous and Distribution-free Probabilistic Wind Power Forecasting] \n
+*Honglin Wen*, Pierre Pinson, Jinghuan Ma, Jie Gu, and Zhijian Jin\n
+/ Techrxiv Preprint/ \n
+
+- [http://dx.doi.org/10.36227/techrxiv.17925911.v1 Optimal Adaptive Prediction Intervals for Electricity Load Forecasting in Distribution Systems via Reinforcement Learning] \n
+Yufan Zhang, *Honglin Wen*, Qiuwei Wu, and Qian Ai\n 
+/ Techrxiv Preprint/ \n
+
+
+
+
