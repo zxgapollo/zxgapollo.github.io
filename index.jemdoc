@@ -2,33 +2,38 @@
 = Xiaoguang Zhu
 
 ~~~
-{}{img_left}{hlwen_photo.jpg}{alt text}{120}{160}
+{}{img_left}{avatar.png}{alt text}{185}{211}
 PhD candidate,\n Department of Electrical Engineering, \n Shanghai Jiao Tong University \n
-E-mail: [linlin00@sjtu.edu.cn]; [hongwen@dtu.dk]\n
+E-mail: [zhuxiaoguang178@sjtu.edu.cn]; [apollozxg@gmail.com]\n
 ~~~
 
 == Biography
-Hi, I am a PhD candidate at Shanghai Jiao Tong University, advised by Prof. Zhijian Jin, and co-advised by Prof. Jie Gu and Prof. Jinghuan Ma. Previously, I obtained my B.E. from EE, Shanghai Jiao Tong University (top 5%). Since April 2021, I am on a research stay at operation research group, Technical University of Denmark, supervised by Prof. [https://pierrepinson.com/ Pierre Pinson]. 
+Hi, I am seeking postdoc positions in universities of North America. I have obtained my Doctor's degree from Shanghai Jiao Tong University (SJTU) on June 2022, supervised by Prof. Peilin Liu. Previous, I also got Master’s degree and Bachelor's degree from SJTU on March 2017 and June 2014.
 
-My research interests include machine learning applications in power system, time series prediction, uncertainty quantification, and decision making under uncertainty. Currently, I am focusing on the interplay between forecasting and decision making.
+Besides, I was a visiting fellow in Shanghai key lab of NSAI of Fudan University, supervised by Prof. Liang Song. Since June 2022, I am a research intern in Shanghai Artificial Intelligence Lab, supervised by Prof. Yanfeng Wang.
 
-
-== Supervision
-- Jiaqing Wu, master student at SJTU (co-advise with Prof. Jie Gu);
-- Yaojian Wang, master student at SJTU (co-advise with Prof. Jie Gu).
+My research interests include computer vision applications in human action recognition, image retrieval, 3D reconstruction, and EEG signal classification. At present, I am focusing on the robust visual perception for safe autonomous driving. 
 
 
 == News
-- Jan, 2022: Work on wind power probabilistic forecasting based on SVGP is accepted by IEEE TSTE.
-- Jan, 2022: Work collaborated with Yufan Zhang on adaptive prediction interval is submitted to IEEE TSG; see it on [https://doi.org/10.36227/techrxiv.17925911.v1 Techrxiv].
-- Nov, 2021: Work on distribution-free probabilistic forecasting is submitted to IEEE TSTE; see it on [https://doi.org/10.36227/techrxiv.16866280.v1 Techrxiv].
-- Oct, 2021: Work collaborated with Xiaoguang Zhu on action recognition is accepted by ACM TOMM!
-- Apr, 2021: Starting the research stay at OR group of DTU!
-- Mar, 2021: Work on prediction interval is accepted by IEEE TSG.
+- Oct. 2022: Work collaborated with Ziming Wang on 2D human pose reconstruction with uncertainty quantification is submitted to ICCASP 2023.
+- Oct. 2022: Work collaborated with Donglai Wei on video anomaly detection is accepted on IEEE SPL.
+- Oct. 2022: Work on EEG signal classification with casual inference is submitted to IEEE TSP.
+- Sep. 2022: Work collaborated with Jing Liu on multi-modal sensing with attention mechanisms is submitted to Pattern Recognition.
+- Jun. 2022: Start the research stay at Shanghai AI Lab!
+- Jun. 2022: Work collaborated with Yang Liu on anomaly detection with dynamic dictionary is published on ICME.
+- Mar. 2022: Work collaborated with Yuhao Cheng on cross-modal image retrieval is published on ACM TOMM.
+- Oct. 2021: Work on multi-modal action recognition is accepted by ACM TOMM.
+- Sep. 2021: Start the visiting fellow at Shanghai key lab of NSAI of Fudan University!
 
 
-== Selected Honors & Awards
-- State Scholarship Fund, China Scholarship Council, 2020.
-- Rongchang Leadership Scholarship, Shanghai Jiao Tong Univ., 2017-2019.
-- Outstanding Undergraduates of Shanghai, 2017.
+== Academic Experience
+- Invited Reviewer: CVPR 2021, CVPR 2022, ICCV 2021, ECCV 2022 etc.
+- TPC Member: INSAI 2021, INSAI 2022
 
+
+== Awards:
+- 2022: Outstanding Graduates of Shanghai
+- 2018: Shanghai Outstanding Communist Youth League Member
+- 2017 - 2010: RongChang Scholarship
+- 2015: Graduate National Scholarship
